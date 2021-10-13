@@ -1,0 +1,15 @@
+
+li{
+    list-style: none;
+}
+.news-container{
+    border: 3px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.content-container{
+ max-width: 40cm;
+ margin-left: 2cm;
+}
